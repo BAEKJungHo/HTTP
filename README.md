@@ -1,5 +1,3 @@
-# 한 달에 한 권 책 읽기 프로젝트
-
 ## HTTP 완벽가이드 
   
   - 출판사 : 인사이트(O'REILLY)
@@ -8,13 +6,3 @@
   - 시작일 : 2019-10-15
   - 종료일 : 2019-11-15
   
-## Boot Spring Boot!
-
-  - 출판사 : 지앤선
-  - 지은이 : 김지헌
-  - 시작일 : 2019-10-21
-  - 종료일 : 2019-11-21
-  
-## 참고(유용한 블로그, 사이트)
-  
-  https://dzone.com/articles/14-tips-for-writing-spring-mvc-controller
